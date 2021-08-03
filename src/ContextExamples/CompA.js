@@ -1,5 +1,5 @@
-import React from 'react'
-import CompB from './CompB'
+import React from 'react';
+import CompB from './CompB';
 import CompC from './CompC';
 
 export const context=React.createContext();
@@ -16,4 +16,4 @@ function CompA() {
     )
 }
 
-export default CompA
+export default CompA;
